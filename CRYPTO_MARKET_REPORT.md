@@ -58,42 +58,121 @@ Stablecoin transaction volume exceeded **$5 trillion annually**. USDC is emergin
 
 ---
 
-## Initial Investment Strategy
+## Low-Stakes Playbook: $50 / $100 / $250 Starter Portfolios
 
 > **DISCLAIMER:** This is not financial advice. All cryptocurrency investments carry significant risk. Do your own research (DYOR) before investing. Never invest more than you can afford to lose.
 
-### Tier 1: Core Holdings (60-70% of portfolio)
-These are the blue-chip, highest-conviction positions.
+### The $50 Starter ("Dip Your Toes")
 
-| Asset | Suggested Allocation | Rationale |
-|-------|---------------------|-----------|
-| **Bitcoin (BTC)** | 35-40% | Store of value, institutional adoption at all-time highs, ETF inflows, potential $140k target. The anchor of any crypto portfolio. |
-| **Ethereum (ETH)** | 20-25% | DeFi backbone, staking yields, L2 ecosystem growth, undervalued at ~$2,300 relative to ecosystem size. |
-| **USDC (Stablecoin)** | 5-10% | Dry powder for buying dips. Earn yield via DeFi protocols while waiting. Market is in "Extreme Fear" = opportunity ahead. |
+| Asset | Amount | Buy Price | Sell Target | Potential Profit | Hold Time |
+|-------|--------|-----------|-------------|-----------------|-----------|
+| **Bitcoin (BTC)** | $20 | $73,352 | $95,000 (+30%) | ~$6 | 2-4 months |
+| **Ethereum (ETH)** | $15 | $2,299 | $3,200 (+39%) | ~$6 | 2-4 months |
+| **Solana (SOL)** | $10 | $85.46 | $140 (+64%) | ~$6 | 2-6 months |
+| **XRP** | $5 | $1.36 | $2.20 (+62%) | ~$3 | 2-6 months |
 
-### Tier 2: Growth Positions (20-25% of portfolio)
-Higher risk, higher upside plays in strong narratives.
+**Realistic return if all targets hit:** ~$21 profit (~42% gain)
+**Strategy:** Buy all at once, set sell orders at targets, and walk away.
 
-| Asset | Suggested Allocation | Rationale |
-|-------|---------------------|-----------|
-| **Solana (SOL)** | 8-10% | High-speed L1, strong developer ecosystem, at $85 (well below ATH) — significant recovery potential in Q2. |
-| **XRP** | 5-8% | Regulatory clarity post-SEC ruling, ETF approvals globally, institutional cross-border payment adoption growing. |
-| **Bittensor (TAO)** | 3-5% | Leading the AI + crypto convergence narrative, the #1 sector of 2026. |
+### The $100 Portfolio ("Getting Serious")
 
-### Tier 3: Speculative / High-Upside (5-10% of portfolio)
-Small bets on emerging narratives. Only risk what you're prepared to lose entirely.
+| Asset | Amount | Buy Price | Take Profit #1 | Take Profit #2 (Moon Bag) | Action |
+|-------|--------|-----------|----------------|--------------------------|--------|
+| **Bitcoin (BTC)** | $35 | $73,352 | Sell $20 at $90k (+23%) | Hold $15 for $140k | +$4.60 at TP1 |
+| **Ethereum (ETH)** | $25 | $2,299 | Sell $15 at $3,000 (+30%) | Hold $10 for $4,500 | +$4.50 at TP1 |
+| **Solana (SOL)** | $20 | $85.46 | Sell $12 at $130 (+52%) | Hold $8 for $200 | +$6.24 at TP1 |
+| **XRP** | $10 | $1.36 | Sell $6 at $2.00 (+47%) | Hold $4 for $3.50 | +$2.82 at TP1 |
+| **Render (RNDR)** | $10 | $1.99 | Sell $6 at $4.00 (+101%) | Hold $4 for $8.00 | +$6.06 at TP1 |
 
-| Asset | Suggested Allocation | Rationale |
-|-------|---------------------|-----------|
-| **Render (RNDR)** | 2-3% | AI infrastructure play, up 23% YTD despite being 85% off ATH — deep value if AI narrative accelerates. |
-| **Fetch.ai (FET)** | 2-3% | AI agent infrastructure, strong narrative momentum, good swing setups. |
-| **L2 Tokens (ARB/OP)** | 1-3% | Bet on Ethereum scaling adoption. L2 usage growing rapidly. |
+**Realistic return at Take Profit #1:** ~$24 profit (~24% gain)
+**If moon bags hit TP2:** additional ~$50-80 on top
+**Strategy:** Sell HALF at TP1 to lock in gains. Let the rest ride as a free "moon bag."
 
-### Dollar-Cost Averaging (DCA) Plan
-Given "Extreme Fear" sentiment and geopolitical uncertainty:
-- **Don't go all-in at once.** Split your entry over 4-8 weeks.
-- **Buy heavier on red days** (fear = discount).
-- **Rebalance monthly** as positions shift in value.
+### The $250 Portfolio ("Low-Stakes Swinger")
+
+| Asset | Amount | Buy Price | Sell Target | Stop Loss | Potential Gain | Max Loss |
+|-------|--------|-----------|-------------|-----------|---------------|----------|
+| **Bitcoin (BTC)** | $80 | $73,352 | $95,000 (+30%) | $65,000 (-11%) | +$24 | -$9 |
+| **Ethereum (ETH)** | $50 | $2,299 | $3,200 (+39%) | $1,900 (-17%) | +$20 | -$9 |
+| **Solana (SOL)** | $40 | $85.46 | $140 (+64%) | $68 (-20%) | +$26 | -$8 |
+| **XRP** | $25 | $1.36 | $2.20 (+62%) | $1.05 (-23%) | +$16 | -$6 |
+| **Bittensor (TAO)** | $20 | $323.10 | $550 (+70%) | $250 (-23%) | +$14 | -$5 |
+| **Render (RNDR)** | $15 | $1.99 | $5.00 (+151%) | $1.40 (-30%) | +$23 | -$5 |
+| **Fetch.ai (FET)** | $10 | ~$0.50 | $1.20 (+140%) | $0.35 (-30%) | +$14 | -$3 |
+| **USDC (Cash Reserve)** | $10 | $1.00 | — | — | Dip-buy fund | $0 |
+
+**Realistic return if targets hit:** ~$137 profit (~55% gain)
+**Max downside if ALL stop losses trigger:** -$45 loss (-18%)
+**Strategy:** Set stop losses AND sell targets on every position. Keep $10 USDC to buy dips.
+
+---
+
+## How to Actually Make Money: Entry, Exit & Sell Rules
+
+### When to BUY (Entry Signals)
+- **Fear & Greed Index below 25** ("Extreme Fear") — this is NOW. Historically the best time to enter.
+- **After a 10-20% dip** from recent highs — prices are discounted, not crashing.
+- **On red days / weekends** — retail panic sells, you scoop up cheaper.
+- **When BTC holds a key support level** — currently $68k-$70k is the floor. If it holds, buy.
+
+### When to SELL (Take-Profit Rules)
+
+**Rule 1: The 2x Rule (Beginners)**
+When any position doubles (100% gain), sell half. You now have your original money back and the rest is "free money" — a moon bag that rides with zero risk to your wallet.
+
+**Rule 2: Scaled Take-Profits (Intermediate)**
+Split each position into 3 sell orders:
+| Sell | Trigger | Action |
+|------|---------|--------|
+| **Sell #1** | +30-40% gain | Sell 33% of position — lock in some profit |
+| **Sell #2** | +70-100% gain | Sell another 33% — you're now in the green no matter what |
+| **Sell #3** | +150%+ gain or "feels euphoric" | Sell the rest — when everyone on social media is celebrating, it's time to leave |
+
+**Rule 3: The Greed Check**
+If you catch yourself thinking "I should have bought more" or "this is going to $1M" — that's the signal to SELL. Euphoria = top.
+
+### When to CUT LOSSES (Stop-Loss Rules)
+- **Set a stop loss at -15% to -25%** on every position. No exceptions.
+- If a coin drops 20%+ and there's NO news catalyst, **sell and reassess.**
+- **Never average down more than once.** If you bought a dip and it keeps dipping, accept the L.
+- A small loss now is better than a 90% loss later. Protect your capital.
+
+### The "Check-In" Schedule
+| Frequency | Action |
+|-----------|--------|
+| **Daily (2 min)** | Glance at portfolio. Are any stop losses or sell targets close? |
+| **Weekly (10 min)** | Check crypto news. Any major catalysts? Adjust targets if needed. |
+| **Monthly (30 min)** | Rebalance. Did one coin pump and now dominate your portfolio? Trim winners, add to laggards. |
+| **Quarterly** | Full review. Is the macro thesis still valid? Are you still comfortable with your risk? |
+
+---
+
+## Dollar-Cost Averaging (DCA) Plan
+
+If you have $100-$250 to invest but want to reduce risk:
+
+| Week | Action | Amount |
+|------|--------|--------|
+| **Week 1** | Buy BTC + ETH only | 30% of total |
+| **Week 2** | Add SOL + XRP | 25% of total |
+| **Week 3** | Wait for a red day, buy more BTC + ETH | 25% of total |
+| **Week 4** | Add speculative picks (RNDR, FET, TAO) | 20% of total |
+
+**Why DCA?** If you invest $250 all at once and the market drops 15% next week, you're down $37 with no cash to buy the dip. DCA spreads your risk over time.
+
+---
+
+## Quick-Start Checklist
+
+- [ ] Pick your budget: $50 / $100 / $250
+- [ ] Download a reputable exchange app (Coinbase, Kraken, or Binance)
+- [ ] Complete KYC verification (takes 1-2 days)
+- [ ] Deposit your starting amount
+- [ ] Buy your Tier 1 positions first (BTC + ETH)
+- [ ] Set sell orders at your take-profit targets
+- [ ] Set stop-loss orders at your max-loss levels
+- [ ] Check in weekly — don't obsess over daily price moves
+- [ ] When a target hits, TAKE THE PROFIT. Don't get greedy.
 
 ---
 
